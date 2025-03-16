@@ -10,7 +10,7 @@
 /*@import url(chrome/autohide_menubar.css);*/
 /*@import url(chrome/hide_toolbox_top_bottom_borders.css);*/
 @import url(chrome/vertical_context_navigation.css);
-@import url(chrome/minimal_popup_scrollbars.css);
+/* @import url(chrome/minimal_popup_scrollbars.css); */
 /*@import url(chrome/button_effect_icon_glow.css);*/
 @import url(chrome/dark_context_menus.css);
 @import url(chrome/dark_additional_windows.css);
@@ -36,5 +36,5 @@
   background: rgb(36,44,59) !important;
 }
 
-/* Remove close button*/ 
-.titlebar-buttonbox-container{ display:none } 
+/* Remove close button*/
+.titlebar-buttonbox-container{ display:none }
